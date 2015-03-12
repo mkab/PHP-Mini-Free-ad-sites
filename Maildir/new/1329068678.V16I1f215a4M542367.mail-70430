@@ -1,0 +1,46 @@
+Return-Path: <perso-10431@mail.anotherservice.com>
+X-Original-To: annoncegratuit@olympe-network.com
+Delivered-To: annoncegratuit@olympe-network.com
+Received: from mail.olympe-network.com (localhost.localdomain [127.0.0.1])
+	by mail.olympe-network.com (Postfix) with ESMTP id 4D37580B1E41B;
+	Sun, 12 Feb 2012 18:44:38 +0100 (CET)
+Received: from www-lighttpd-28011.localdomain (unknown [10.20.12.2])
+	by mail.olympe-network.com (Postfix) with ESMTP id 2181A804DE16C;
+	Sun, 12 Feb 2012 18:44:38 +0100 (CET)
+Received: by www-lighttpd-28011.localdomain (Postfix, from userid 10431)
+	id 2D55C71503; Sun, 12 Feb 2012 18:44:43 +0100 (CET)
+To: annoncegratuit@olympe-network.com
+Subject: [Olympe Network] Ouverture de votre compte
+MIME-Version: 1.0
+Content-type: text/html; charset=utf-8
+Commit: NO
+From: Olympe Network <admin@olympe-network.com>
+Message-Id: <20120212174444.2D55C71503@www-lighttpd-28011.localdomain>
+Date: Sun, 12 Feb 2012 18:44:43 +0100 (CET)
+X-Virus-Scanned: ClamAV using ClamSMTP
+
+
+<html>
+<head>
+<title>Olympe Network :: Email</title>
+</head>
+<body>
+Bonjour,<br />
+<br />
+Bienvenue sur la plateforme d'hébergement gratuit <strong>Olympe Network</strong>. 
+Voici les informations qui vous permettront d'y accéder en toute simplicité :
+<br /><br />
+Adresse du panel : <a href='http://www.olympe-network.com/panel/home'>http://www.olympe-network.com/panel/home</a><br />
+Nom d'utilisateur : <strong>annoncegratuit</strong><br />
+Mot de passe : <strong>zamanikaduna$234</strong><br />
+<br />
+N'hésitez pas à consulter l'aide une fois connecté : <a href='http://www.olympe-network.com/help/home'>http://www.olympe-network.com/help/home</a><br />
+<br />
+Nous vous remercions de votre confiance.
+<br /><br />
+=========================<br />
+Equipe Olympe Network - <a href='http://www.olympe-network.com'>http://www.olympe-network.com</a><br />
+Email : <a href='mailto: contact@olympe-network.com'>contact@olympe-network.com</a><br />
+Adresse : 31 avenue Sainte Victoire - 13100 Aix-en-Provence - FRANCE
+</body>
+</html>
